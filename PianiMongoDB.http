@@ -1,0 +1,6 @@
+@PianiMongoDB_HostAddress = http://localhost:5234
+
+GET {{PianiMongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

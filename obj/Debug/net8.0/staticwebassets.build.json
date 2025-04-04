@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aXE39SXOBqdn4aA6alPYMKkOIUZl3cEcOgcS0eK8+lA=",
+  "Source": "PianiMongoDB",
+  "BasePath": "_content/PianiMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
