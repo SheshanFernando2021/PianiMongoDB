@@ -4,7 +4,11 @@ Welcome to the backend of the Piani project! This application is designed to hel
 
 ## TechStack
 
-[![](https://skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq" />
+  </a>
+</p>
 
 ## Overview
 
