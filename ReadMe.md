@@ -3,12 +3,6 @@
 Welcome to the backend of the Piani project! This application is designed to help users effectively track their daily tasks and boost productivity.
 
 ## TechStack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq" />
-  </a>
-</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq" />
