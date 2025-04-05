@@ -2,6 +2,10 @@
 
 Welcome to the backend of the Piani project! This application is designed to help users effectively track their daily tasks and boost productivity.
 
+## TechStack
+
+[![](https://skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq)](https://skillicons.dev)
+
 ## Overview
 
 Piani provides a platform for users to log their daily activities, enabling them to gain insights into their productivity levels throughout the week. By tracking each task, users can visualize their productivity trends in graphical format. This feedback encourages users to set and accomplish more tasks, ultimately enhancing their overall productivity.
@@ -17,7 +21,3 @@ Whether you're looking to improve your time management skills or simply want to 
 ## Authors
 
 - [@SheshanFernando2021](https://www.github.com/SheshanFernando2021)
-
-## Screenshots
-
-![App Screenshot](https://postimg.cc/nM2ky15F)
