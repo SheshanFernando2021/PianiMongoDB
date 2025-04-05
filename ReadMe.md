@@ -9,6 +9,11 @@ Welcome to the backend of the Piani project! This application is designed to hel
     <img src="skillicons.dev/icons?i=dotnet,cs,firebase,mongodb,redis,rabbitmq" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## Overview
 
