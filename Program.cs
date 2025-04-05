@@ -5,6 +5,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ITodoService, TodoService>();
+builder.Services.AddSingleton<RedisService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
