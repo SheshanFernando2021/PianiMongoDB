@@ -31,3 +31,9 @@
 /Users/sheshan/MongoDb/PianiMongoDB/obj/Debug/net8.0/PianiMongoDB.pdb
 /Users/sheshan/MongoDb/PianiMongoDB/obj/Debug/net8.0/PianiMongoDB.genruntimeconfig.cache
 /Users/sheshan/MongoDb/PianiMongoDB/obj/Debug/net8.0/ref/PianiMongoDB.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/DnsClient.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/SharpCompress.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/Snappier.dll
+/Users/sheshan/MongoDb/PianiMongoDB/bin/Debug/net8.0/ZstdSharp.dll
