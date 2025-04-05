@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PianiMongoDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+834d368a46a8d40751e6e067a322e3a6a7964a73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e89cf7024408b4c2d954588f87c296ae5362afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PianiMongoDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PianiMongoDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
